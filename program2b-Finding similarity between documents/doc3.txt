@@ -1,0 +1,1 @@
+Cosine similarity is a measure of similarity between two non-zero vectors. It is often used in natural language processing.

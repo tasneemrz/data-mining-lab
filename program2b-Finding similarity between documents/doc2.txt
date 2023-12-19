@@ -1,0 +1,1 @@
+A red apple hangs from a tree branch. This document is meant to showcase cosine similarity in action.
