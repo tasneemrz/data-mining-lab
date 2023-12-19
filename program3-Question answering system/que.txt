@@ -1,0 +1,3 @@
+"que","ans"
+"what are the courses run by JMI","JMI runs the courses of btech, mtech, B.arch"
+"Where is JMI located","JMI is located in jamia nagar new delhi"
